@@ -1,6 +1,6 @@
 ##       OpenConnect  🌐🧠
 
-### OpenConnect is a platform that makes it easier to collaborate, communicate and automate your open source projects.
+### OpenConnect is a platform that makes it easier to collaborate, communicate and automate on your open source projects.
 
 ## Hot Features and Objectives
 
