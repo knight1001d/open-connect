@@ -1,9 +1,6 @@
-##       Open Connect  🌐🧠
+##       OpenConnect  🌐🧠
 
-### Project Overview 📄
-"Open Connect" is a groundbreaking online platform designed to revolutionize the way community members projects are organized and showcased across technical and higher educational institutes in India. This integrated platform 💻 aims to serve as a central repository, categorizing projects community-wise, fostering collaboration, knowledge sharing, and cross-functional research.
-
-This platform is open for all open source enthusiasts too as collaboration is  the heart❤️ of Open Source Community. This website will help you to  find like-minded individuals 🧠 eager to connect, share knowledge, and work together on exciting projects 🚀. We firmly believe that the best solutions emerge when brilliant minds come together, and that's exactly what we foster here 😊.
+### OpenConnect is a platform that aims it easier to collaborate, communicate and automate for your open source projects.
 
 ## Hot Features and Objectives
 
