@@ -84,6 +84,7 @@ You can look at the license in LICENSE file.
 
 ### For feedback and suggestions:
 Email: prathamjagga123@gmail.com
+Email: vanshajgupta37@gmail.com
 
 ### Community
 We are building an online forum shortly.😀
